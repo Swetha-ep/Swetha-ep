@@ -28,5 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swetha-ep&show_icons=true&locale=en&theme=dark" alt="swetha-ep" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Swetha-ep&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
